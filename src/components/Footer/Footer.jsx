@@ -166,7 +166,7 @@ return(
 
                         <div className="footerDiv flex">
                                 <small> BEST TRAVEL WEBSITE THEME </small>
-                                <small> COPYRIGHTS RESERVED -ISRATECH 2023</small>
+                                <small> COPYRIGHTS RESERVED -AMAN ARORA</small>
                         </div>
                 </div>
             </div>
